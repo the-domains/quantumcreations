@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: Examples of the creative team efforts...Who is the creative team? Glad you asked. The chief creator is BJ Bigham-Trupp and the main minion is Bob
-datePublished: '2016-03-12T16:20:51.850Z'
-dateModified: '2016-03-12T16:12:20.969Z'
+datePublished: '2016-03-12T16:24:08.275Z'
+dateModified: '2016-03-12T16:20:57.878Z'
 title: Creation sample images
 author: []
 sourcePath: _posts/2016-03-12-creation-sample-images.md
